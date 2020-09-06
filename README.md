@@ -3,7 +3,7 @@
 ![ReactMovie](https://i.imgur.com/OxyjCME.png)
 
 ## Framework
-Find your next movie or create your watchlist with this App. It include reviews, rating, actors and anything you need to know about the movie. This application will help users find their next movie to watch by showing helpful stats. In this project I am using Imdb to get the movies and all the information.
+Find your next movie or create your watchlist with this App. It include reviews, rating, actors and anything you need to know about the movie. This application will help users find their next movie to watch by showing helpful stats. In this project I am using Imdb API to get the movies and all the information.
 
 ## Main scenario
 
